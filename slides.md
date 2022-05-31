@@ -4,10 +4,6 @@
 * What's in our responsibility
 * How we work
 
----
-
-## Overview
-
 Note:
 This talk will give an overview of who is the SUSE QE Tools team, what is in
 our responsibility, what we did in the past time and what we do. The products
@@ -22,17 +18,40 @@ shown. Opportunities for contributions will be discussed.
 
 https://progress.opensuse.org/projects/qa/wiki/Tools
 
+* Team of 8 SUSE employees
+* Engaged in various communities
+* Inter-departement team, different backgrounds
+
 ---
 
 ## What's in our responsibility
 
 https://progress.opensuse.org/projects/qa/wiki/Tools#Team-responsibilities
 
+* Develop and maintain QE related tooling, mostly used for SLE/openSUSE
+  distributions
+* Administration of related infrastructure
+* *Not:* Doing QA ourselves (mostly)
+
+---
+
+### Our userbase
+
+* SUSE QA engineers and SUSE SLE release management
+* Every SLE/openSUSE developer
+* [openSUSE](https://openqa.opensuse.org), [Fedora](https://openqa.fedoraproject.org/), [Debian](https://openqa.debian.net/), [Qubes OS](https://openqa.qubes-os.org/) , [GNOME](https://openqa.gnome.org), [and](https://www.codethink.co.uk/articles/2021/automated-linux-kernel-testing/), [many](https://en.euro-linux.com/blog/openqa-or-how-we-test-eurolinux/), [more](https://openqa.opensuse.org/group_overview/23 )
+* and of course our team itself for [openQA-in-openQA Tests](https://openqa.opensuse.org/group_overview/24) ;)
+
 ---
 
 ## How we work
 
 https://progress.opensuse.org/projects/qa/wiki/Tools#How-we-work
+
+* We follow a DevOps Process
+* Various public github projects (and some internal)
+* Continuous deployment (nearly) everywhere!
+* Appreciating contributions, helping others, helping us
 
 ---
 
