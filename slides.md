@@ -1,14 +1,22 @@
 ## Scope
-* What is the SUSE QE Tools team
-* Who we are
-* What's in our responsibility
-* How we work
+* What is openQA
+* current state
+* moving forward
+* collaborate and contribute
 
 Note:
-This talk will give an overview of who is the SUSE QE Tools team, what is in
-our responsibility, what we did in the past time and what we do. The products
-that we care about will be presented and the workflows of the team will be
-shown. Opportunities for contributions will be discussed.
+openQA is one of the key elements that ensures the delivery of updates and new
+versions of operating systems, it is the heart of openSUSE's effort to deliver
+stable systems for our users, and SUSE's quality gate, used to ensure that
+updates and new releases of the operating systems aren't breaking operations
+of customers; however it is growing outside openSUSE, Fedora and SUSE,
+expanding to other distributions, so we need to start thinking how to
+collaborate further, and have a clearer picture for users of openQA's
+ecosystem and integration capabilities.
+
+Santiago Zarate is the Product Owner of Quality Engineering Core team at SUSE,
+they collaborate closely with the Quality Engineering Tools Team and rest of
+the teams of the Quality Engineering department
 
 ---
 
@@ -16,50 +24,50 @@ shown. Opportunities for contributions will be discussed.
 
 "The easiest way to provide complete quality for your software"
 
-https://progress.opensuse.org/projects/qa/wiki/Tools
+https://progress.opensuse.org/projects/qa/wiki/
 
-* Team of 8 SUSE employees
-* Engaged in various communities
-* Inter-departement team, different backgrounds
-
----
-
-## What's in our responsibility
-
-https://progress.opensuse.org/projects/qa/wiki/Tools#Team-responsibilities
-
-* Develop and maintain QE related tooling, mostly used for SLE/openSUSE
-  distributions
-* Administration of related infrastructure
-* *Not:* Doing QA ourselves (mostly)
+* Two teams, 8+9 SUSE employees
+* Part of QE for openSUSE+SUSE products
+* Working for SUSE and with communities
 
 ---
 
-### Our userbase
+## current state
 
-* SUSE QA engineers and SUSE SLE release management
-* Every SLE/openSUSE developer
-* [openSUSE](https://openqa.opensuse.org), [Fedora](https://openqa.fedoraproject.org/), [Debian](https://openqa.debian.net/), [Qubes OS](https://openqa.qubes-os.org/) , [GNOME](https://openqa.gnome.org), [and](https://www.codethink.co.uk/articles/2021/automated-linux-kernel-testing/), [many](https://en.euro-linux.com/blog/openqa-or-how-we-test-eurolinux/), [more](https://openqa.opensuse.org/group_overview/23 )
-* and of course our team itself for [openQA-in-openQA Tests](https://openqa.opensuse.org/group_overview/24) ;)
+Let's just take a look on
+https://openqa.opensuse.org
+:)
+
+Note:
+The speaker will give a quick overview of features, challenges and
+opportunities for further development
 
 ---
 
-## How we work
+## moving forward
 
-https://progress.opensuse.org/projects/qa/wiki/Tools#How-we-work
+Note:
+wants to provide a window
+into how to close the gap between users outside of openSUSE/SUSE and the
+openQA development team
 
-* We follow a DevOps Process
-* Various public github projects (and some internal)
-* Continuous deployment (nearly) everywhere!
-* Appreciating contributions, helping others, helping us
+
+---
+
+## collaborate and contribute
+
+Note:
+To know more about openQA - Talk: Shortening the feedback loops between R&D
+See https://youtu.be/3HN61L7RzzA?si=cFKT5JkujLc-w3_n
 
 ---
 
 ## Points to take away
 
-* We provide tools and infrastructure
-* openSUSE tests are done by you! … and some SUSE teams
-* We are there to help and welcome contributions :)
+* openQA is actively used and developed
+* tests/tooling/integration are of high value themselves
+* multiple communities already collaborate
+* if you need more, talk to us :)
 
 ---
 
@@ -67,7 +75,7 @@ https://progress.opensuse.org/projects/qa/wiki/Tools#How-we-work
 
 <p><img src="img/chameleon.svg" style="max-height:300px;"></p>
 
-https://v.gd/okurz_osc22
+https://v.gd/okurz_osc24
 
 <small>
 Presentation created using <br><a href="https://github.com/krig/opensuse-presentation-template">https://github.com/krig/opensuse-presentation-template</a>

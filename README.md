@@ -1,4 +1,4 @@
-# openSUSE Conference 2022 - SUSE QE Tools - Who we are and what we do
+# openSUSE Conference 2024 - openQA in 2024 - Current state and moving forward
 
 This repository uses a presentation template for
 [reveal.js](https://github.com/hakimel/reveal.js) with a theme based
