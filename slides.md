@@ -46,6 +46,8 @@ opportunities for further development
 
 ## moving forward
 
+<p><img src="img/ecosystem.png"></p>
+
 Note:
 wants to provide a window
 into how to close the gap between users outside of openSUSE/SUSE and the
@@ -56,6 +58,9 @@ openQA development team
 
 ## collaborate and contribute
 
+* http://open.qa/
+* https://v.gd/osado
+* https://gitlab.gnome.org/GNOME/openqa-tests/-/wikis/QA-testing-monthly-call
 Note:
 To know more about openQA - Talk: Shortening the feedback loops between R&D
 See https://youtu.be/3HN61L7RzzA?si=cFKT5JkujLc-w3_n
