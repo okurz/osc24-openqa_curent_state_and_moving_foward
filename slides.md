@@ -1,5 +1,5 @@
 ## Scope
-* What is openQA
+* Who we are
 * current state
 * moving forward
 * collaborate and contribute
